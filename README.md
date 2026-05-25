@@ -48,3 +48,7 @@ and round-trips decrypt correctly.
 ## License
 
 MIT
+
+
+---
+📖 Part of the **[scout toolkit](https://ethswarm-tools.github.io/scout/)** (scout · stash · perch · keep).
